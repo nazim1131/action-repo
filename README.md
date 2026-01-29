@@ -1,3 +1,3 @@
 # action-repo
 
-testing pull event
+testing push event
